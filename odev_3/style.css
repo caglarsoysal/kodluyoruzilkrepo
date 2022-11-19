@@ -1,0 +1,26 @@
+.urunler{
+    background-color: brown; border-radius: 15px;
+}
+.liste{
+    list-style-type:square; color:brown;
+}
+.background{
+    background-color: bisque;
+}
+.fistikli{
+    color: brown;
+}
+.hazirlanis{
+    color: white;
+}
+.malzeme{
+    margin-left: 550px;
+}
+.footer{
+    margin-left: 1240px;
+    font-size:xx-large;
+    font-family:monospace;
+}
+.tarif{
+    color: chocolate;
+}
