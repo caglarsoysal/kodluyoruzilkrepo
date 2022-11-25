@@ -1,0 +1,21 @@
+body {
+    background-color: lavenderblush;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    list-style-position: inside;
+  }
+  .navbar a{
+    text-decoration: none;
+    float: inline-start;
+    margin-right: 20px;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  h2 {
+    color: blueviolet;
+  }
+ 
